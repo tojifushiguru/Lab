@@ -1,0 +1,90 @@
+body {
+    margin: 0px;
+    font-family: sans-serif;
+    background-color: rgb(223, 218, 218);
+}
+
+main {
+    margin: 30px;
+}
+
+h2 {
+    color: rgb(39, 39, 78);
+    font-weight: bolder;
+}
+
+#top {
+    background-color: rgb(39, 39, 78);
+    text-align: center;
+    margin: 0px;
+    height: 10em;
+    padding: 20px;
+}
+
+#profil-name {
+    color: white;
+}
+
+#personal-info {
+    display: flex;
+}
+
+#address {
+    margin-left: 0.2em;
+    width: 60em;
+}
+
+#info {
+    margin-left: 40em;
+    width: 60em;
+}
+
+#your-desig {
+    color: white;
+    font-weight: lighter;
+}
+
+#about-me {
+    margin-top: 3em;
+    width: 50em;
+    margin-left: 2em;
+}
+
+#work-info {
+    display: flex;
+}
+
+#work-exp {
+    margin-top: 3em;
+    margin-left: 30em;
+    width: 50em;
+    margin-right: 2em;
+}
+
+p {
+    color: rgb(29, 29, 58);
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin: 0.5em;
+}
+
+progress {
+    border-radius: 0px;
+    width: 23em;
+}
+
+h3 {
+    color: rgb(39, 39, 78);
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 15px;
+}
